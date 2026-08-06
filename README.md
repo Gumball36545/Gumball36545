@@ -1,5 +1,7 @@
 <p align="center">
-  Work in progress
+<img width="850" alt="a" src="https://github.com/user-attachments/assets/c2e50093-628e-4a87-8633-f07915447743">
+  <br>
+  Work in progress
 </p>
 
 ---
@@ -40,7 +42,7 @@
 
 ---
 
-## 📫 How to Reach Me
+## 📬 Let's Connect
 
 > [!NOTE]
 > <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain Flag"> <img src="https://flagcdn.com/w20/ve.png" width="20" alt="Venezuela Flag"> *Spanish is my main language, but you're more than welcome to message me in English!* 
@@ -51,28 +53,17 @@
 | :--- | :--- |
 | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@gumball36545/) | `gumball36545` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzgumball36545@gmail.com) | `itzgumball36545@gmail.com` |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gumball36545) | `gumball36545` |
 
 ---
 
 
+<h2 align="center">
+📊 GitHub Stats & Activity Graph 📈
+</h2>
 
-<!--
+Contributions & Streak |  |
+|---|---|
+[![GitHub Streak](https://streak-stats.demolab.com?user=gumball36545&theme=dark)](https://git.io/streak-stats) | <img width="498" height="278" alt="DLrPCvFJ" src="https://github.com/user-attachments/assets/7d384da0-80bf-4e6e-8e32-031d6d6d88bf">
 
----
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Gumball36545&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gumball36545&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumball36545&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gumball36545&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Gumball36545&icon=0&color=0)](https://visitcount.itsvg.in)
-
-⚡ Fun fact: ...
-
----
-[![](https://visitcount.itsvg.in/api?id=fd&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Gumball36545&theme=nightowl)

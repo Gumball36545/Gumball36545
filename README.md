@@ -30,21 +30,35 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-<h1 align="center">
-  💝 Projects That I'm Proud Of 💝
-</h1>
+
+## 💝 Projects That I'm Proud Of!
+
+> [!NOTE]
+> 🚀 *You can view all my repositories [here](https://github.com/gumball36545?tab=repositories)!*
+
+![Work In Progress](https://img.shields.io/badge/Status-Building_Projects...-FFA500?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📫 How to Reach Me
-- **Preferred Language:** Spanish! 🇪🇸 / 🇻🇪
+## 📫 How to Reach Me
 
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@gumball36545/) gumball36545
+> [!NOTE]
+> <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain Flag"> <img src="https://flagcdn.com/w20/ve.png" width="20" alt="Venezuela Flag"> *Spanish is my main language, but you're more than welcome to message me in English!* 
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzgumball36545@gmail.com) itzgumball36545@gmail.com
+<br>
+
+| Platform | Contact/Username |
+| :--- | :--- |
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@gumball36545/) | `gumball36545` |
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzgumball36545@gmail.com) | `itzgumball36545@gmail.com` |
 
 ---
 
+
+
+<!--
+
+---
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Gumball36545&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>

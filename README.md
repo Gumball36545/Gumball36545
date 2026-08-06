@@ -1,28 +1,43 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d3bcb566-547b-4a47-952e-6e91f988cccf" width="100%" alt="GoldShip Banner"/>
-  🚧 Work in progress 🚧
+  Work in progress
 </p>
 
 ---
 
-## 🔭 What I'm Currently Working On
+<h1 align="center">
+  🔭 What I'm Currently Working On
+</h1>
 
-### 🌱 I'm Currently Learning
-- **Languages:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h2>🌱 I'm Currently Learning 🌱</h2>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      <a href="https://github.com/gumball36545"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h2>🔮 What I do Plan to Learn 🔮</h2>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-- **Tools:** ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gumball36545)
-
-### 🔮 What I Plan to Learn
-- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Tools:** *(tbd)*
-
-### 🏆 Mastered Skills
-*(Empty for now...)*
+<table align="center" border="100%">
+  <tr>
+    <td width="100%" valign="top" align="center">
+      <h2>🏆 Mastered Skills 🏆</h2>
+        <h4>(Empty for now...)</h4>
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 💝 Projects That I'm Proud Of
+<h1 align="center">
+  💝 Projects That I'm Proud Of 💝
+</h1>
 
 ---
 
@@ -35,5 +50,20 @@
 
 ---
 
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Gumball36545&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gumball36545&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gumball36545&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gumball36545&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Gumball36545&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ⚡ Fun fact: ...
 
+---
+[![](https://visitcount.itsvg.in/api?id=fd&icon=0&color=0)](https://visitcount.itsvg.in)

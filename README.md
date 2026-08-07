@@ -1,9 +1,22 @@
 <p align="center">
-<img width="850" alt="a" src="https://github.com/user-attachments/assets/c2e50093-628e-4a87-8633-f07915447743">
-  <br>
-  Work in progress
+  <b>🌐 Select Language 🌐</b> <br>
+  <a href="https://github.com/Gumball36545/Gumball36545/blob/main/README.md">
+    <img src="https://flagcdn.com/w20/us.png" width="18" alt="English"> English
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/Gumball36545/Gumball36545.es.md/blob/main/README.md">
+    <img src="https://flagcdn.com/w20/es.png" width="18" alt="Español"> Español
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2e50093-628e-4a87-8633-f07915447743" width="840">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+</p>
+  
 ---
 
 ## 🛠️ Tech Stack & Current Focus
@@ -66,4 +79,4 @@ Contributions & Streak |  |
 |---|---|
 [![GitHub Streak](https://streak-stats.demolab.com?user=gumball36545&theme=dark)](https://git.io/streak-stats) | <img width="498" height="278" alt="DLrPCvFJ" src="https://github.com/user-attachments/assets/7d384da0-80bf-4e6e-8e32-031d6d6d88bf">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Gumball36545&theme=nightowl)
+![](https://github-readme-activity-graph.vercel.app/graph?username=gumball36545&theme=nightowl)
